@@ -1,0 +1,11 @@
+rich>=13.7.0
+InquirerPy>=0.3.4
+faker>=22.0.0
+phonenumbers>=8.13.27
+requests>=2.31.0
+python-dotenv>=1.0.0
+pyfiglet>=0.8.0
+rarfile>=4.1
+pandas>=2.1.4
+cryptography>=41.0.7
+qrcode>=7.4.2
